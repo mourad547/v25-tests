@@ -1,0 +1,17 @@
+﻿{
+  "Chart": {
+    "Symbol": "EURUSD",
+    "Period": "m1"
+  },
+  "Parameters": {
+    "InpJump": 18,
+    "InpWindowMS": 60000,
+    "InpShotgunCount": 5,
+    "InpTotalTP": 12.0,
+    "InpBaseLot": 0.01,
+    "InpBaseSL_Pts": 300,
+    "InpDailyMaxLossPct": 5.0,
+    "InpReverse": true,
+    "InpMaxHours": 4
+  }
+}
